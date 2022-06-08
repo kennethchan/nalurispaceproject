@@ -1,0 +1,29 @@
+.cont-header {
+  background-color: black;
+  min-height: 100vh;
+  text-align: center;
+  color: white;
+}
+
+.cont-header .dropdown .btn-primary {
+  background-color: #14424d !important;
+  border-color: #14424d !important;
+}
+
+.planet-selector {
+  width: 150px;
+}
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+}
+
+.circumference {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+}
+
+.slider-image {
+  width: 30% !important;
+}
