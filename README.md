@@ -45,3 +45,10 @@ or
 
 1. Navigate to 'nsp-node-server/server/index.js
 2. edit the port number in 'const  PORT = process.env.PORT || 3001' to whichever is available in your network
+
+### Future update plans
+
+1. UI/UX overhaul (paying attention to Layout, structure and color tones)
+2. Web and Mobile usability and responsiveness improvements
+3. Three.js implementation for 3D experience
+4. Database integration to incorporate more planets, galaxies and constellations
