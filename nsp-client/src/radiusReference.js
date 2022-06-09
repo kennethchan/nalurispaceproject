@@ -45,9 +45,9 @@ const radiusReference = [
         image: require('./assets/Neptune.gif')
     },
     {
-        planetName: 'Pluto',
+        planetName: 'Pluto (Debatable)',
         radius: '1188.3',
-        image: require('./assets/Pluto.gif')
+        image: require('./assets/Pluto (Debatable).gif')
     }
 ]
 
